@@ -1,9 +1,4 @@
-[submodule "blog"]
-	path = blog
-	url = https://github.com/codejstar/Blog.git
-[submodule "blog2"]
-	path = blog2
-	url = https://github.com/codejstar/Blog.git
+
 [submodule "Blog"]
 	path = Blog
 	url = https://github.com/codejstar/Blog.git
